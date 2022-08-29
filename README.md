@@ -1,14 +1,14 @@
 
- <h1 align="center">Hi 👋, I'm 👨‍🎓 K.M. Zabir Tarique</h1>
-<h3 align="center">Software Developer at <a href="https://github.com/ryo-ma/github-profile-trophy">Spectrum Engineering Consortium Ltd,Dhaka,Bangladesh</h3>
+# Hi 👋, I'm 👨‍🎓 [K.M. Zabir Tarique](https://sites.google.com/view/zabir-portfolio/home)
+## Software Developer at [Spectrum Engineering Consortium Ltd](https://spectrum-bd.com/) , Dhaka,Bangladesh
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zabirtarique&label=Profile%20views&color=0e75b6&style=flat" alt="zabirtarique" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zabirtarique" alt="zabirtarique" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile Apps Development**
+- 🔭 I’m currently working on **Mobile Apps Development, More specifically in flutter**
 
-- 🌱 I’m currently learning **Flutter Frog,GraphQL**
+- 🌱 I’m currently learning **Flutter Frog,GraphQL,.Net core**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/view/zabir-portfolio/home](https://sites.google.com/view/zabir-portfolio/home)
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **zabir.spectrum@gmail.com**
+- 📫 How to reach me **[K.M. Zabir Tarique Portfolio](https://sites.google.com/view/zabir-portfolio/home)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-woDUwv9uH7cnvNn_wNtKL3IR8AGfOjt/view](https://drive.google.com/file/d/1-woDUwv9uH7cnvNn_wNtKL3IR8AGfOjt/view)
 
