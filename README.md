@@ -98,9 +98,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/K. M. Zabir Tarique"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" width="210" alt="K. M. Zabir Tarique" /></a><a href="https://ko-fi.com/K. M. Zabir Tarique"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="70" width="210" alt="K. M. Zabir Tarique" /></a></p><br><br>
-
+<h3 align="left">Analytics:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zabirtarique&show_icons=true&locale=en&layout=compact" alt="zabirtarique" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zabirtarique&show_icons=true&locale=en" alt="zabirtarique" /></p>
 
 
